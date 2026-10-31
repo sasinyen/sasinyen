@@ -1,12 +1,14 @@
 <div align="center">
 
-# sasinyen
+# Yasin Şenyurt
 
-**VISUAL & GRAPHIC DESIGNER**
+**VISUAL COMMUNICATION & GRAPHIC DESIGNER**
+
+Istanbul, Türkiye · sasinyen
 
 Clear ideas. Thoughtful design.
 
-Typography · Composition · Visual Storytelling
+[**Explore my portfolio ↗**](https://www.instagram.com/sasinyen.psd/)
 
 </div>
 
@@ -14,7 +16,7 @@ Typography · Composition · Visual Storytelling
 
 ## About
 
-I turn ideas into clear, compelling visuals. My approach brings together thoughtful typography, purposeful composition, and visual storytelling to create work with clarity and character.
+I am a visual communication designer based in Istanbul. I turn ideas into clear, compelling visuals through thoughtful typography, purposeful composition, and visual storytelling.
 
 ## Design focus
 
@@ -29,6 +31,10 @@ I turn ideas into clear, compelling visuals. My approach brings together thought
 **Understand the message → Explore the direction → Refine the details.**
 
 I start with what needs to be communicated, build a visual direction around it, and refine the relationship between type, imagery, and space. Every element should contribute to the whole.
+
+## Portfolio
+
+Explore my design work and visual experiments on [**Instagram — @sasinyen.psd**](https://www.instagram.com/sasinyen.psd/).
 
 ---
 
